@@ -40,43 +40,75 @@
 				</ul>
 			</div>
 		</nav>
-		<div class="container-fluid py-5 px-3">
+		<div class="container-fluid py-5 px-4">
 			<div class="row">
-				<div class="col-md-3">
+				<div class="col-md-3 pb-3">
 					<div class="card">
 						<h5 class="card-header">Riker</h5>
 						<div class="card-body">
 							<p class="card-text">These are the voyages of the Starship Enterprise. Its continuing mission, to
-								explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize the homing signal.</p>
+								explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+								We need to neutralize the homing signal.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3">
-					<div class="card">
+				<div class="col-md-3 pb-4">
+					<div class="card border border-primary">
 						<h5 class="card-header">Ipsum</h5>
 						<div class="card-body">
 							<p class="card-text">Now what are the possibilities of warp drive? Cmdr Riker's nervous system has
-								been invaded by an unknown microorganism. The organisms fuse to the nerve, intertwining at the molecular level. That's why the transporter's biofilters couldn't extract.</p>
+								been invaded by an unknown microorganism. The organisms fuse to the nerve, intertwining at the molecular level.
+								That's why the transporter's biofilters.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3">
-					<div class="card">
-						<h5 class="card-header">...</h5>
+				<div class="col-md-3 pb-4">
+					<div class="card border border-danger">
+						<h5 class="card-header">===</h5>
 						<div class="card-body">
 							<p class="card-text">I have reset the sensors to scan for frequencies outside the usual range. By
-								emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators. He has this ability of instantly interpreting.</p>
+								emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators.
+								He has this ability of instantly interpreting.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3">
-					<div class="card">
-						<h5 class="card-header">&hearts;</h5>
+				<div class="col-md-3 pb-4">
+					<div class="card border border-warning">
+						<h5 class="card-header">&#x2764;</h5>
 						<div class="card-body">
 							<p class="card-text">It indicates a synchronic distortion in the areas emanating triolic waves.
-								The cerebellum, the cerebral cortex, the brain stem,  the entire nervous system has been depleted of electrochemical energy. Any device like that would produce high levels of triolic waves.</p>
+								The cerebellum, the cerebral cortex, the brain stem,  the entire nervous system has been depleted
+								of electrochemical energy. Any device like that would produce high levels.</p>
 						</div>
 					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid px-4">
+			<div class="row">
+				<div class="col-md-4">
+					<p class="mb-0 pb-0">
+						These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds,
+						to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize
+						the homing signal. Each unit has total environmental control, gravity, temperature, atmosphere, light, in a
+						protective field. Sensors show energy readings in your area. We had a forced chamber explosion in the resonator coil.
+						Field strength has increased by 3,000 percent.
+					</p>
+				</div>
+				<div class="col-md-4">
+					<p class="mb-0 pb-0">
+						Deflector power at maximum. Energy discharge in six seconds. Warp reactor core primary coolant failure.
+						Fluctuate phaser resonance frequencies. Resistance is futile. Recommend we adjust shield harmonics to the
+						upper EM band when proceeding. These appear to be some kind of power-wave-guide conduits which allow them to work
+						collectively as they perform ship functions. Increase deflector modulation to upper frequency band.
+					</p>
+				</div>
+				<div class="col-md-4 mb-0 pb-0">
+						Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it,
+						Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark
+						colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers
+						experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
+					</p>
 				</div>
 			</div>
 		</div>
