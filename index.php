@@ -12,7 +12,7 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 	</head>
 	<body>
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 			<a class="navbar-brand" href="#">Navbar</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -40,6 +40,46 @@
 				</ul>
 			</div>
 		</nav>
+		<div class="container-fluid py-5 px-3">
+			<div class="row">
+				<div class="col-md-3">
+					<div class="card">
+						<h5 class="card-header">Riker</h5>
+						<div class="card-body">
+							<p class="card-text">These are the voyages of the Starship Enterprise. Its continuing mission, to
+								explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize the homing signal.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card">
+						<h5 class="card-header">Ipsum</h5>
+						<div class="card-body">
+							<p class="card-text">Now what are the possibilities of warp drive? Cmdr Riker's nervous system has
+								been invaded by an unknown microorganism. The organisms fuse to the nerve, intertwining at the molecular level. That's why the transporter's biofilters couldn't extract.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card">
+						<h5 class="card-header">...</h5>
+						<div class="card-body">
+							<p class="card-text">I have reset the sensors to scan for frequencies outside the usual range. By
+								emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators. He has this ability of instantly interpreting.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card">
+						<h5 class="card-header">&hearts;</h5>
+						<div class="card-body">
+							<p class="card-text">It indicates a synchronic distortion in the areas emanating triolic waves.
+								The cerebellum, the cerebral cortex, the brain stem,  the entire nervous system has been depleted of electrochemical energy. Any device like that would produce high levels of triolic waves.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</body>
 
 </html>
