@@ -13,7 +13,7 @@
 	</head>
 	<body>
 		<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-			<a class="navbar-brand" href="#">Navbar</a>
+			<a class="navbar-brand badge badge-light" href="#"><img src="https://global-uploads.webflow.com/591f58afd078c5546042eda5/59c7f1e42f7d970001d05b32_cab%20-%20animal%20welfare%20check.png" alt="Animal shelter logo" width="50px" height="50px" class="img-fluid"></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
